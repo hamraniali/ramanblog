@@ -1,0 +1,32 @@
+@media(max-width: 768px) {
+    .search-back{
+        display: none;
+    }
+    .back-aside{
+        display: none;
+    }
+    .sidebar-desk{
+        display: none !important;
+    }
+    .menu-btn2{
+        display: block!important;
+    }
+    .menu-btn{
+        display: none!important;
+    }
+    .btn-search-phone{
+        background-color: #36a935!important;
+    }
+    .phone-search{
+        display: block!important;
+    }
+    .btn-search-phone{
+        color: white !important;
+    }
+    .search-back-phone{
+        width: 100%!important;
+        direction: rtl;
+        border: 2px solid #36a935;
+        border-radius: 5px;
+    }
+}
